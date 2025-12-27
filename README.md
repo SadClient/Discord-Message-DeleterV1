@@ -5,6 +5,7 @@ in Discord direct messages with **selected users**.
 
 The tool only removes messages **sent by the authenticated Discord account**.
 It does **not** delete messages sent by the other party.
+Tool Language is Turkish (English version will be released)
 
 ---
 
